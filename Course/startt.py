@@ -1,0 +1,13 @@
+s="hello\nworld"
+print(s)
+print("hello\nworld")
+print("""
+      hello
+      wor
+d""")
+s="""Hello
+world"""
+print(s)
+s="helloworld"
+print(s[:6])
+print(s[1:])
